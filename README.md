@@ -19,11 +19,15 @@ Feature selection focuses on identifying the subset of features that are most re
 
 Additionally, some efforts in the field of automated machine learning (AutoML) incorporate feature engineering as part of a larger framework for automating the entire machine learning pipeline. These comprehensive AutoML solutions aim to streamline the model development process from data preprocessing to model deployment, further enhancing the accessibility and efficiency of machine learning for practitioners across domains.
 
-We use tags `DP`, `SY`, `SE`, `AML` to denote data preprocessing, feature synthesis, Feature selection and autoML works respectively.
-
-
 ## Paper List
 
+### Automated data preprocessing
 
-| Venue     | Paper                                                        |                            Links                             |   Tags    | TLDR                                                         |
+
+| Venue     | Paper                                                        |                            Links                             |   year    | TLDR                                                         |
 | :-------- | :----------------------------------------------------------- | :----------------------------------------------------------: | :-------: | :----------------------------------------------------------- |
+|/|PyChemFlow: an automated pre-processing pipeline in Python for reproducible machine learning on chemical data|[paper](https://chemrxiv.org/engage/chemrxiv/article-details/64b9082aae3d1a7b0d0a53dc)|2023|
+|IEEE Access|Auto-prep: efficient and automated data preprocessing pipeline|[paper](https://ieeexplore.ieee.org/document/9856663)|2022
+|Neurocomputing|Data imputation in IoT using Spatio-Temporal Variational Auto-Encoder|[paper](https://researchr.org/publication/ZhangCCCH23)|2023|
+|Engineering Applications of Artificial Intelligence|MIVAE: Multiple Imputation based on Variational Auto-Encoder|[paper](https://researchr.org/publication/0003LBW0L23)|2023|
+|Intelligent Automation & Soft Computing|Missing value imputation model based on adversarial autoencoder using spatiotemporal feature extraction|[paper](https://www.techscience.com/iasc/v37n2/53242/html)|2023|
