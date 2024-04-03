@@ -9,6 +9,19 @@ AutoFE techniques leverage algorithms to discover feature transformations and in
 
 The core idea behind AutoFE is not just to automate the feature engineering process but also to optimize it in a way that maximally enhances the performance of machine learning models. This involves a combination of search algorithms, statistical techniques, and machine learning methods to evaluate and select the best features.
 
+Automated feature engineering can broadly be categorized into three main components: automated data preprocessing, feature synthesis, and feature selection.
+
+Automated data preprocessing encompasses tasks such as data cleaning, handling missing values, and normalization. This initial step ensures that the data is in a suitable format for further analysis and model building. By automating these preprocessing steps, practitioners can save valuable time and reduce the risk of introducing human error into the data preparation process.
+
+Feature synthesis involves the creation of new features from existing ones or by combining multiple features in meaningful ways. This step aims to capture complex relationships and patterns in the data that may not be immediately apparent. Automated techniques use algorithms to explore various feature combinations and transformations, allowing for the discovery of novel features that can improve model performance.
+
+Feature selection focuses on identifying the subset of features that are most relevant for predicting the target variable. Automated methods employ different strategies, such as statistical tests, model-based evaluations, or heuristic search algorithms, to efficiently explore the feature space and identify the most informative features. By automating this process, practitioners can avoid the tedious and error-prone task of manually evaluating numerous feature combinations.
+
+Additionally, some efforts in the field of automated machine learning (AutoML) incorporate feature engineering as part of a larger framework for automating the entire machine learning pipeline. These comprehensive AutoML solutions aim to streamline the model development process from data preprocessing to model deployment, further enhancing the accessibility and efficiency of machine learning for practitioners across domains.
+
+We use tags `DP`, `SY`, `SE`, `AML` to denote data preprocessing, feature synthesis, Feature selection and autoML works respectively.
+
+
 ## Paper List
 
 
