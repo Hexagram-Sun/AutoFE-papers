@@ -27,7 +27,16 @@ Additionally, some efforts in the field of automated machine learning (AutoML) i
 | Venue     | Paper                                                        |                            Links                             |   year    | TLDR                                                         |
 | :-------- | :----------------------------------------------------------- | :----------------------------------------------------------: | :-------: | :----------------------------------------------------------- |
 |/|PyChemFlow: an automated pre-processing pipeline in Python for reproducible machine learning on chemical data|[paper](https://chemrxiv.org/engage/chemrxiv/article-details/64b9082aae3d1a7b0d0a53dc)|2023|
-|IEEE Access|Auto-prep: efficient and automated data preprocessing pipeline|[paper](https://ieeexplore.ieee.org/document/9856663)|2022
+|IEEE Access|Auto-prep: efficient and automated data preprocessing pipeline|[paper](https://ieeexplore.ieee.org/document/9856663)|2022|detects issues, suggests cleaning methods, and boosts model performance significantly
 |Neurocomputing|Data imputation in IoT using Spatio-Temporal Variational Auto-Encoder|[paper](https://researchr.org/publication/ZhangCCCH23)|2023|
-|Engineering Applications of Artificial Intelligence|MIVAE: Multiple Imputation based on Variational Auto-Encoder|[paper](https://researchr.org/publication/0003LBW0L23)|2023|
-|Intelligent Automation & Soft Computing|Missing value imputation model based on adversarial autoencoder using spatiotemporal feature extraction|[paper](https://www.techscience.com/iasc/v37n2/53242/html)|2023|
+|Engineering Applications of Artificial Intelligence|MIVAE: Multiple Imputation based on Variational Auto-Encoder|[paper](https://researchr.org/publication/0003LBW0L23)|2023|data imputation with VAE
+|Intelligent Automation & Soft Computing|Missing value imputation model based on adversarial autoencoder using spatiotemporal feature extraction|[paper](https://www.techscience.com/iasc/v37n2/53242/html)|2023|data imputation with GAN
+
+### Feature synthesis
+| Venue     | Paper                                                        |                            Links                             |   year    | TLDR                                                         |
+| :-------- | :----------------------------------------------------------- | :----------------------------------------------------------: | :-------: | :----------------------------------------------------------- |
+|Information Sciences|Automatic features generation and selection from external sources: A dbpedia use case|[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025521009671)|2022|using meta-learning techniques to predict effective transformations
+|Machine Learning|Tsfuse: Automated feature construction for multiple time series data|[paper](https://link.springer.com/article/10.1007/s10994-021-06096-2)|2022
+|/|Macfe: A meta-learning and causality based feature engineering framework|[paper](https://link.springer.com/chapter/10.1007/978-3-031-19493-1_5)|2022
+|AAAI|Feature engineering for predictive modeling using reinforcement learning|[paper](https://arxiv.org/abs/1709.07150)|2018|apply all operations at once to expand feature set and then search for the best features
+Ijcai|Learning feature engineering for classification|[paper](https://www.ijcai.org/proceedings/2017/352)|2017
