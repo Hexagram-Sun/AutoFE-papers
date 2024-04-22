@@ -37,6 +37,11 @@ Additionally, some efforts in the field of automated machine learning (AutoML) i
 | :-------- | :----------------------------------------------------------- | :----------------------------------------------------------: | :-------: | :----------------------------------------------------------- |
 |Information Sciences|Automatic features generation and selection from external sources: A dbpedia use case|[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025521009671)|2022|using meta-learning techniques to predict effective transformations
 |Machine Learning|Tsfuse: Automated feature construction for multiple time series data|[paper](https://link.springer.com/article/10.1007/s10994-021-06096-2)|2022
-|/|Macfe: A meta-learning and causality based feature engineering framework|[paper](https://link.springer.com/chapter/10.1007/978-3-031-19493-1_5)|2022
+|ASCC|Automated feature engineering for fraud prediction in online credit loan services|[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9828336)|2022
+|/|Macfe: A meta-learning and causality based feature engineering framework|[paper](https://link.springer.com/chapter/10.1007/978-3-031-19493-1_5)|2022|Evaluating the Importance of Features Based on Causal Inference
+|CIKM|Mining Cross Features for Financial Credit Risk Assessment|[paper](https://link.springer.com/article/10.1007/s10994-021-06096-2)|2021|Feature cross
+|ICDE|SAFE: Scalable Automatic Feature Engineering Framework for Industrial Tasks|[paper](https://www.computer.org/csdl/proceedings-article/icde/2020/09101784/1kaMGB3kDJe)|2020
+|ECMLPKDD|Automating feature construction for multi-view time series data|[paper](https://link.springer.com/article/10.1007/s10994-021-06096-2)|2019|FE for time series
 |AAAI|Feature engineering for predictive modeling using reinforcement learning|[paper](https://arxiv.org/abs/1709.07150)|2018|apply all operations at once to expand feature set and then search for the best features
-Ijcai|Learning feature engineering for classification|[paper](https://www.ijcai.org/proceedings/2017/352)|2017
+|Ijcai|Learning feature engineering for classification|[paper](https://www.ijcai.org/proceedings/2017/352)|2017
+|ICDM|ExploreKit: Automatic Feature Generation and Selection|[paper](https://www.semanticscholar.org/paper/ExploreKit%3A-Automatic-Feature-Generation-and-Katz-Shin/732f95f8fc6d7706acdbd28d7855d6a8fed281f6)|2016|Meta-learning based feature selection
